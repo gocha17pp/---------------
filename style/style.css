@@ -1,0 +1,240 @@
+@font-face {
+    font-family: bowlby;
+    src: url(../fonts/BowlbyOne-Regular.ttf);
+ 
+}
+@font-face {
+    font-family: robo;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration:none ;
+    box-sizing: border-box;
+    font-family: bowlby;
+}
+.pirveli{
+    background-color: black;
+}
+
+
+header{
+  padding: 21px 210px 16px 190px;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+
+}
+header ul{
+    width: 442px;
+}
+header ul a{
+    color: aliceblue;
+}
+.meore header{
+    background-color: rgb(0, 0, 0);
+}
+
+
+.apple{
+    color: aliceblue;
+    text-align: center;
+    padding: 21px 16px ;
+}
+h1 a{
+ color: white;
+ 
+}
+.ddd img{
+    width: 100%;
+}
+.icons{
+   width: 200px;
+}
+.second{
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+.macboock{
+    color: aliceblue;
+    font-size: 32px;  
+    padding-top: 114px;
+    font-family: robo;  
+}
+.nebismieri{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: bowlby;
+}
+.flexi{
+    display: flex;
+    align-items: center;
+}
+.divmeore{
+    padding: 60px 0 0 40px;
+    width: 820px;
+}
+
+.kai{
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: robo;
+    
+text-align: right;
+}
+.davis{
+    font-size: 24px;
+    font-family: bowlby;
+    width: 834px;
+    padding: 5px 0 0 20px;
+}
+.fanum{
+    width: 958px;
+   margin: auto; 
+   
+
+}
+.fl1{
+    width: 438px;
+    color: #FFFFFF;
+    font-size: 40px;
+    gap:32px ;
+
+}
+footer{
+    padding-bottom: 59px;
+    padding-left: 140px;
+    background-color: black;
+}
+.meore{
+    background-color: #FFFFFF;
+}
+.flex3{
+    background-color: black;
+}
+.MACKBOOK img{
+    width: 100%;
+}
+.title{
+    text-align: center;
+    margin: 102px 0 144px 0;
+    font-size: 36px;
+}
+.fasi{
+    margin: 72px;
+}
+.product{
+    text-align: center;
+    font-size: 34px;
+    width: 50%;
+    position: relative;
+}
+.product a{
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.flex2{
+   width: 438px;
+
+
+}
+.footerh2{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+.shidagverdi{
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 3126px;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 850px;
+    z-index: 3;
+}
+.inernav ul{
+    padding: 42px 330px 38px 308px;
+    background-color: #FFFFFF;
+    border-radius: 74px;
+    width: 1566px;
+    margin: 0 auto;
+    position: relative;
+}
+.inernav ul a{
+    color: black;
+    font-size: 32px;
+}
+.close{
+    position: absolute;
+    right: 88px;
+    top: 34px;
+    z-index: 5;
+}
+.item{
+    width: 1672px;
+    height: 1368px;
+    background-color: #FFFFFF;
+    border-radius: 100px;
+    margin: 132px auto;
+    padding: 118px 0 144px 0;
+}
+.item h2{
+    text-align: center;
+    margin-bottom: 128px;
+}
+.item .pro{
+    width: 738px;
+}    
+.f4.flex{
+    align-items: flex-start;
+}
+.info div{
+ margin-right: 62px;
+}
+.info.flex{
+    justify-content: flex-start;
+}
+.info{
+    width: 908px;
+    padding: 40px 0 40px 42px;
+    border-bottom: 3px solid #D9D9D9;
+    
+}
+.buy a{
+    display: block;
+    background-color: black ;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: robo;
+    width: 172px;
+    padding: 12px 0;
+    text-align: center;
+    margin: 80px auto;
+}
+.item h3{
+    text-align: center;
+    margin-top:90px ;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
